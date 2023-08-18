@@ -174,9 +174,8 @@ html, body {
     font-size: 36px;
     font-family: 'Noto Sans', sans-serif;
     border-radius: 20px;
-    
 }
-}
+
 @keyframes blink {
       0%, 100% {
         opacity: 0;
@@ -184,9 +183,9 @@ html, body {
       50% {
         opacity: 1;
       }
-    }
+}
     
-    .click {
+.click {
       animation: blink 1s infinite;
 }
 
